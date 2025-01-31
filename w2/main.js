@@ -1,3 +1,5 @@
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "Carbon Footprint Total";
 // 1. Count members of household.
 const myFamily = 10
 // 2. Size of home.
